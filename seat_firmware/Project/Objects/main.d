@@ -1,0 +1,9 @@
+.\objects\main.o: ..\User\main.c
+.\objects\main.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+.\objects\main.o: ..\Libraries\CMSIS\Include\core_cm4.h
+.\objects\main.o: D:\SoftWare\Keil\system\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
+.\objects\main.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
+.\objects\main.o: ..\Libraries\CMSIS\Include\core_cmSimd.h
+.\objects\main.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+.\objects\main.o: ..\User\stm32f4xx_conf.h

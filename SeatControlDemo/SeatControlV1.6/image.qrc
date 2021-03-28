@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/Close.png</file>
+        <file>Image/Open.png</file>
+        <file>Image/123.png</file>
+        <file>Image/Download.png</file>
+        <file>Image/OpenFile.png</file>
+        <file>Image/ReadFirmware.png</file>
+        <file>Image/LoadPara.png</file>
+        <file>Image/ReadPara.png</file>
+        <file>Image/SavePara.png</file>
+        <file>Image/WritePara.png</file>
+        <file>SeatControl.ico</file>
+        <file>Image/End.png</file>
+        <file>Image/Start.png</file>
+        <file>Image/Login.png</file>
+        <file>Image/Out.png</file>
+        <file>Image/FastClose.png</file>
+        <file>Image/FastOpen.png</file>
+        <file>Image/Half.png</file>
+        <file>Image/OpenClose.png</file>
+        <file>Image/ReadCurrent.png</file>
+        <file>Image/StartReadCur.png</file>
+        <file>Image/StopReadCur.png</file>
+        <file>Image/ControlBoard.png</file>
+        <file>Image/ClearCalibrationData.png</file>
+    </qresource>
+</RCC>

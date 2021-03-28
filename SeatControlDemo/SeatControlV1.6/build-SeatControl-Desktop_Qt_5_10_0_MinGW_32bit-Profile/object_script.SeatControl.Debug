@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\SCMainWindow.o
+./debug\Login.o
+./debug\SCParameter.o
+./debug\SCButton.o
+./debug\SCFirmwareUpgrade.o
+./debug\SCRecordEvent.o
+./debug\CRC_Cal.o
+./debug\qrc_image.o
+./debug\moc_SCMainWindow.o
+./debug\moc_Login.o
+./debug\moc_SCParameter.o
+./debug\moc_SCButton.o
+./debug\moc_SCFirmwareUpgrade.o
+./debug\moc_SCRecordEvent.o
+);

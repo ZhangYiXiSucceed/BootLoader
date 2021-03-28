@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\SCMainWindow.o
+./release\Login.o
+./release\SCParameter.o
+./release\SCButton.o
+./release\SCFirmwareUpgrade.o
+./release\SCRecordEvent.o
+./release\CRC_Cal.o
+./release\qrc_image.o
+./release\moc_SCMainWindow.o
+./release\moc_Login.o
+./release\moc_SCParameter.o
+./release\moc_SCButton.o
+./release\moc_SCFirmwareUpgrade.o
+./release\moc_SCRecordEvent.o
+);
